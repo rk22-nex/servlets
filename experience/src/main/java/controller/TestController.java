@@ -11,8 +11,8 @@ import dao.mdao;
 import model.Model;
 
 @Controller
-public class TestController {
-	//hey bro
+public class TestController {//chudhham
+	
 	@Autowired
 	private mdao getdao;
 	
